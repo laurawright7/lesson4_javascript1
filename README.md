@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Laura Wright)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
